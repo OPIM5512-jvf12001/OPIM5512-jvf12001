@@ -2,7 +2,7 @@
 
   This semester in particular I will be learning:
     - More in-depth usage of machine learning tools
-    - Techniques to better preproccess data
+    - Techniques to better preproccess data 
     - Data modeling skills
 
 
